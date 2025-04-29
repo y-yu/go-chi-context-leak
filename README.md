@@ -1,5 +1,9 @@
+[**This discussion is closed.**](https://github.com/go-chi/chi/issues/993)
+
+
 go-chi `Context` leak to the other request with `http.TimeoutHandler`?
 ========================================================================
+
 
 Demo: https://www.youtube.com/watch?v=RTQPUjnO2xQ
 
